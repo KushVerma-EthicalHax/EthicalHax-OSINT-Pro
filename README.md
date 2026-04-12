@@ -1,4 +1,4 @@
-# ⚡ ETHICALHAX OSINT PRO ⚡
+# ETHICALHAX OSINT PRO !
 
 > **“Track. Trace. Analyze. Reveal.”**
 
