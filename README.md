@@ -1,4 +1,4 @@
-# ⚡ ETHICALHAX OSINT PRO – SHADOW CORE ⚡
+# ⚡ ETHICALHAX OSINT PRO ⚡
 
 > **“Track. Trace. Analyze. Reveal.”**
 
